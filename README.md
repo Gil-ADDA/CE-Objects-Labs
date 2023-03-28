@@ -11,3 +11,5 @@ the main goal in this project is to create a decent model of object detection an
 im goin to use transfer learning that is it a pretraind model that based on the image classification project that i had been doing in edge impulse 
 
 im going to feel the gap of the last process of the image classification and add images that will achive  200 images of each object and 100 images of both of them  
+
+that is the link to the colab Transfer learning and fine-tuning of CE-LAB https://colab.research.google.com/drive/1kBV7blhAQX4nWpvU9CVUN9yFPg6AY0Pv#scrollTo=wTTT7fnP8YUR
